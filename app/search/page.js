@@ -1,6 +1,10 @@
-const page = () => {
+import HeaderSearch from "../components/HeaderSearch"
+
+const SearchPage = () => {
     return (
-        <div>page</div>
+        <div>
+            <HeaderSearch />
+        </div>
     )
 }
-export default page
+export default SearchPage
