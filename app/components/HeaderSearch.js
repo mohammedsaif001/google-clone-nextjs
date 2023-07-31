@@ -4,6 +4,7 @@ import { useRouter } from "next/navigation"
 import { useRef } from "react"
 import { XIcon, MicrophoneIcon, SearchIcon } from "@heroicons/react/solid"
 import Avatar from "./Avatar"
+import HeaderOptionSearch from "./HeaderOptionSearch"
 
 const HeaderSearch = () => {
     const router = useRouter()
@@ -38,6 +39,9 @@ const HeaderSearch = () => {
                 </form>
                 <Avatar url={"/profilepic.jpg"} className="ml-auto" />
             </div>
+
+            {/* Header Options */}
+            <HeaderOptionSearch />
         </header>
     )
 }
