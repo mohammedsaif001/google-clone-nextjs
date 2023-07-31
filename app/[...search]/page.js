@@ -7,7 +7,7 @@ const SearchPage = async ({ params, searchParams: { term } }) => {
     return (
         <div>
             <HeaderSearch />
-            <SearchResults results={data} />
+            <SearchResults results={data} term={term} />
         </div>
     )
 }
