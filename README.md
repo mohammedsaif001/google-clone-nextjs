@@ -17,9 +17,9 @@ Welcome to my Google Clone project! This responsive web application replicates t
 
 This project features a fully responsive design, meticulously crafted using Tailwind CSS's responsive utility classes. The application's adaptability extends across various devices, including desktops, tablets, and mobile phones. As users access the application from different devices, the layout dynamically adjusts, ensuring an optimal user experience regardless of the screen size or orientation.
 
-<!-- ## Deployed Link -->
+## Deployed Link
 
-<!-- Access the deployed application [here](https://your-deployed-link.com). -->
+Access the deployed application [here](https://google-clone-mohammedsaif001.vercel.app/).
 
 ## Screenshot
 
@@ -30,6 +30,8 @@ This project features a fully responsive design, meticulously crafted using Tail
 ![Google Clone Login Responsive 2](screenshots/google_clone_login_2.png)
 ![Google Clone Search Responsive 2](screenshots/google_clone_search_2.png)
 ![Google Clone Search Responsive 3](screenshots/google_clone_search_3.png)
+![Google Clone Search Pagination 1](screenshots/google_clone_pagination_1.png)
+![Google Clone Search Pagination 2](screenshots/google_clone_pagination_2.png)
 
 ## Credits
 
