@@ -1,6 +1,6 @@
 # Google Clone
 
-![Google Clone Screenshot](screenshots/google_clone_search.png.png)
+![Google Clone Screenshot](screenshots/google_clone_search.png)
 
 Welcome to my Google Clone project! This responsive web application replicates the Google search engine, built using advanced technologies such as Next.js 13 and Tailwind CSS, with a focus on server-side rendering (SSR).
 
