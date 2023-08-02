@@ -16,7 +16,7 @@ const SearchResults = ({ results, term }) => {
                         <a href={result.link} className="text-sm block">
                             {result.formattedUrl}
                         </a>
-                        <a href={result.link} className="truncate text-xl text-blue-800 font-medium group-hover:underline">
+                        <a href={result.link} className="truncate whitespace-normal sm:whitespace-nowrap text-xl text-blue-800 font-medium group-hover:underline">
                             {result.title}
                         </a>
                     </div>
